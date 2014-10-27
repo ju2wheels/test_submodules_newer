@@ -1,0 +1,3 @@
+[submodule "submodule1"]
+	path = submodule1
+	url = https://github.com/abadger/test_submodules_subm1.git
